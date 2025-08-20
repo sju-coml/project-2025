@@ -33,7 +33,7 @@ python main.py
 
 ---
 
-## 🛠 기술 스택
+## 🛠 기술 스택 (선택사항)
 
 * 언어/프레임워크: (예: Python, PyTorch, TensorFlow 등)
 * 도구: (예: Docker, GitHub Actions 등)
